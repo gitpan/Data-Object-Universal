@@ -1,0 +1,45 @@
+NAME
+    Data::Object::Universal - A Universal Object for Perl 5
+
+VERSION
+    version 0.02
+
+SYNOPSIS
+        use Data::Object::Universal;
+
+        my $object = Data::Object::Universal->new($scalar);
+
+DESCRIPTION
+    Data::Object::Universal provides common methods for operating on any
+    Perl 5 data types.
+
+SEE ALSO
+    *   Data::Object::Array
+
+    *   Data::Object::Code
+
+    *   Data::Object::Float
+
+    *   Data::Object::Hash
+
+    *   Data::Object::Integer
+
+    *   Data::Object::Number
+
+    *   Data::Object::Scalar
+
+    *   Data::Object::String
+
+    *   Data::Object::Undef
+
+    *   Data::Object::Universal
+
+AUTHOR
+    Al Newkirk <anewkirk@ana.io>
+
+COPYRIGHT AND LICENSE
+    This software is copyright (c) 2014 by Al Newkirk.
+
+    This is free software; you can redistribute it and/or modify it under
+    the same terms as the Perl 5 programming language system itself.
+
